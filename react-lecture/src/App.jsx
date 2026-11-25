@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <Header/>
       <HelloUser name="Имя"/>
-      <UserCard UserData = {UL}/>
+      <UserCard users = {UL}/>
       <ProductCard title="Название_01" price='1000'/>
       <ProductCard title="Название_02" price={2000}/>
       <h1>Каталог всех товаров:</h1>

@@ -4,4 +4,4 @@ const UserList = [
     {id:2,fullName:"ФИО", login:"Логин",email:"Email@mail.ru",male:"МУЖ",pass:"Qwerty123",city:"Ufa",isOnline:true}
     ];
 
-    export default UserList;
+export default UserList;
